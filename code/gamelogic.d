@@ -1,0 +1,14 @@
+.\gamelogic.o: gameLogic.c
+.\gamelogic.o: gameLogic.h
+.\gamelogic.o: timer/timer.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\gamelogic.o: D:\Programmi\Keil_v5\ARM\ARMCLANG5\Bin\..\include\stdint.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\gamelogic.o: C:\Users\avant\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\gamelogic.o: GLCD/GLCD.h
+.\gamelogic.o: graphicInit.h
+.\gamelogic.o: D:\Programmi\Keil_v5\ARM\ARMCLANG5\Bin\..\include\stdio.h

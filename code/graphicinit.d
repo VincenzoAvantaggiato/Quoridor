@@ -1,0 +1,14 @@
+.\graphicinit.o: graphicInit.c
+.\graphicinit.o: graphicInit.h
+.\graphicinit.o: GLCD/GLCD.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\graphicinit.o: D:\Programmi\Keil_v5\ARM\ARMCLANG5\Bin\..\include\stdint.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\graphicinit.o: C:\Users\avant\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\graphicinit.o: D:\Programmi\Keil_v5\ARM\ARMCLANG5\Bin\..\include\stdio.h
+.\graphicinit.o: gameLogic.h
+.\graphicinit.o: timer/timer.h
